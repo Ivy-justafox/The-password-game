@@ -1,2 +1,2 @@
 # The-password-game
-i'm makeing a game like ting?
+i'm makeing a game like thing?
